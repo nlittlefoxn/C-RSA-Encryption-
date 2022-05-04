@@ -1,0 +1,16 @@
+C:\Users\zqc22\source\repos\RSA-Provide\RSA-Provide\bin\Debug\RSA-Provide.exe.config
+C:\Users\zqc22\source\repos\RSA-Provide\RSA-Provide\bin\Debug\RSA-Provide.exe
+C:\Users\zqc22\source\repos\RSA-Provide\RSA-Provide\bin\Debug\RSA-Provide.pdb
+C:\Users\zqc22\source\repos\RSA-Provide\RSA-Provide\obj\Debug\RSA-Provide.csproj.AssemblyReference.cache
+C:\Users\zqc22\source\repos\RSA-Provide\RSA-Provide\obj\Debug\RSA-Provide.csproj.SuggestedBindingRedirects.cache
+C:\Users\zqc22\source\repos\RSA-Provide\RSA-Provide\obj\Debug\RSA-Provide.csproj.CoreCompileInputs.cache
+C:\Users\zqc22\source\repos\RSA-Provide\RSA-Provide\obj\Debug\RSA-Provide.exe
+C:\Users\zqc22\source\repos\RSA-Provide\RSA-Provide\obj\Debug\RSA-Provide.pdb
+C:\Users\zqc22\Desktop\RSA-Provide\RSA-Provide\RSA-Provide\bin\Debug\RSA-Provide.exe.config
+C:\Users\zqc22\Desktop\RSA-Provide\RSA-Provide\RSA-Provide\bin\Debug\RSA-Provide.exe
+C:\Users\zqc22\Desktop\RSA-Provide\RSA-Provide\RSA-Provide\bin\Debug\RSA-Provide.pdb
+C:\Users\zqc22\Desktop\RSA-Provide\RSA-Provide\RSA-Provide\obj\Debug\RSA-Provide.csproj.AssemblyReference.cache
+C:\Users\zqc22\Desktop\RSA-Provide\RSA-Provide\RSA-Provide\obj\Debug\RSA-Provide.csproj.SuggestedBindingRedirects.cache
+C:\Users\zqc22\Desktop\RSA-Provide\RSA-Provide\RSA-Provide\obj\Debug\RSA-Provide.csproj.CoreCompileInputs.cache
+C:\Users\zqc22\Desktop\RSA-Provide\RSA-Provide\RSA-Provide\obj\Debug\RSA-Provide.exe
+C:\Users\zqc22\Desktop\RSA-Provide\RSA-Provide\RSA-Provide\obj\Debug\RSA-Provide.pdb
